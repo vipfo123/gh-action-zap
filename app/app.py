@@ -1,4 +1,4 @@
-# Added comment to commit
+# Added comment to commit.
 
 from flask import session, Flask, jsonify, request, Response, render_template, render_template_string, url_for
 from flask_sqlalchemy import SQLAlchemy
