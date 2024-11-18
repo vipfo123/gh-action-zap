@@ -1,5 +1,5 @@
 import requests
-from zapv2 import ZAPv2 as ZAP
+from zaproxy import ZAPv2 as ZAP
 import time
 import datetime
 from os import getcwd
